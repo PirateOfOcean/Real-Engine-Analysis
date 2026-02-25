@@ -17,7 +17,7 @@ User-friendly interactive MATLAB GUI
 
 🧮 Theoretical Background
 
-The program is based on real Brayton cycle (Brayton Cycle) thermodynamic analysis. Unlike ideal cycle calculations, this tool considers:
+The program is based on real Brayton cycle (Brayton Cycle) thermodynamic analysis. Unlike ideal cycle calculations, this tool considers:\n
 Compressor and turbine isentropic efficiencies
 Mechanical efficiency
 Combustion efficiency
