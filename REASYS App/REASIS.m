@@ -1,4 +1,4 @@
-classdef Group3_app < matlab.apps.AppBase
+classdef REASIS < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
@@ -4652,4 +4652,5 @@ classdef Group3_app < matlab.apps.AppBase
             delete(app.UIFigure)
         end
     end
+
 end
