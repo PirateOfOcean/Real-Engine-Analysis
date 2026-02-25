@@ -1,0 +1,33 @@
+• Current MATLAB Runtime requires for launch the app. This installer downloads current "MATLAB Runtime" and the "REASIS" app.
+
+• About 2.02 GB space is required and about 720 MB will be downloaded so Wi-fi connection is recommended.
+
+FOR INSTALL
+
+1. Run the REASIS Installer.exe
+
+1.1 If Windows defender gives a warning, click "More info" text and then click run anyway button
+
+NOTE: It is %100 percent safe to run. This installer created by MATLAB.
+
+1.2 You will need administrator rights to run for the MATLAB Runtime installer.
+
+2. Click Next
+
+3. Choose a destination for REASIS app (For Default: C:\Program Files\REASIS)
+
+3.1 It is recommended that check the "Add a shortcut to desktop" box. Then click next.
+
+4. MATLAB RUNTIME section is determines where MATLAB RUNTIME will be installed. It is recommended to do NOT any change in direction. (For Default: C:\Program Files\MATLAB\MATLAB Runtime) Then click next.
+
+5. That is all! I hope you enjoy using the application.
+
+FOR UNINSTALL
+
+1. Click on the Windows icon in the bottom-left corner of the screen or press the Windows key on your keyboard.
+
+2. In the search bar, type "Add or Remove Programs." Click on the "Add or Remove Programs" option from the search results.
+
+3. In the "Add or Remove Programs" window, scroll down or use the search function to locate the "REASIS" application.
+
+4. Click on the application, then select the "Uninstall" button and follow any additional on-screen instructions.
