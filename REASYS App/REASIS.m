@@ -4632,7 +4632,7 @@ classdef REASIS < matlab.apps.AppBase
     methods (Access = public)
 
         % Construct app
-        function app = Group3_app
+        function app = REASIS
 
             % Create UIFigure and components
             createComponents(app)
@@ -4654,3 +4654,4 @@ classdef REASIS < matlab.apps.AppBase
     end
 
 end
+
